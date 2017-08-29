@@ -1,5 +1,5 @@
 # viterbi_involvement
-To run text_generator:
+To run text_generator (trained on Alice in Wonderland text):
 
 1.) Install Docker. https://docs.docker.com/engine/installation/
 
